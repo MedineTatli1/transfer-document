@@ -1,2 +1,3 @@
 FROM openjdk:8-jre-alpine
+ARG APPLICATION
 EXPOSE 8096
